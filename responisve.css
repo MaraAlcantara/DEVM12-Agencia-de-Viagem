@@ -1,0 +1,14 @@
+@media (max-width: 540px)
+{
+    body {
+        padding: 10px;
+    }
+    
+    .formulario-campo-duplo, .radio {
+        flex-direction: column;
+    }
+
+    .formulario-campo-duplo div, .radio div {
+        width: 100%;
+    }
+}
